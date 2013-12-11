@@ -7,7 +7,7 @@ music = \relative c' {
   \time 3/4
   | c4-.(\f\< d4-. es4-.)
   \time 4/4
-  | fis8.---\trill\sfz e!16 d16-> r16 r8 c2-\prall
+  | fis8.---\trill\sfz\> e!16 d16->\niente r16 r8 c2-\prall
   \time 2/2
   \clef treble
   | r2-\fermata c8( eeh8)-^ \tuplet 3/2 { eeh8( gisih8 b')-! }
